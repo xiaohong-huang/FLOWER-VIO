@@ -1,6 +1,6 @@
 # FLOWER-VIO
 
-
+A Long-Tracked-Feature Linked Optimized Window Enhancedby Reparameterization for Visual-Inertial Odometry
 
 
 ## 1. Prerequisites
